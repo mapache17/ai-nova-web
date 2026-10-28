@@ -31,7 +31,3 @@ src/
 - **Textos de cada sección**: en su componente dentro de `src/components/`.
 - **Colores**: `src/index.css` (bloque `@theme` y el de `prefers-color-scheme: dark`).
 - **Imágenes**: reemplaza el archivo en `src/assets/product/` manteniendo el nombre.
-
-## Publicar
-
-Sube el repo a GitHub y conéctalo en Vercel o Netlify (framework: Vite, build: `npm run build`, salida: `dist`).
